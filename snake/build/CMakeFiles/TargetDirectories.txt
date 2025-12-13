@@ -1,0 +1,3 @@
+/home/marek/c-terminal-games/snake/build/CMakeFiles/game.dir
+/home/marek/c-terminal-games/snake/build/CMakeFiles/edit_cache.dir
+/home/marek/c-terminal-games/snake/build/CMakeFiles/rebuild_cache.dir
